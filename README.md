@@ -8,5 +8,4 @@ For the client side I used React, my favorite of the JavaScript libraries. In th
 server side - The project was written in the .net environment, with c#. In terms of architecture, there is a division into separate layers for controllers, services and a repo layer that deals with all access to the database (written in SQL). I used Microsoft's EntityFramework. The system is monitored with loggers, so no bug can slip into nowhere.
 Also on the server side, clean code is strictly adhered to.
 During the work on the project I used GitHub to manage the different versions.
-
 Good health to all.
