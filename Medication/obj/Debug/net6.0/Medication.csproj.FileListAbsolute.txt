@@ -1,0 +1,858 @@
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.exe
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Repository.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Services.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Services.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\DTO.dll
+M:\PROJECT\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.exe
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Repository.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Services.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\bin\Debug\net6.0\Services.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.exe
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\DTO.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Repository.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Services.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\bin\Debug\net6.0\Services.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\appsettings.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.exe
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Repository.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Services.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\bin\Debug\net6.0\Services.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\appsettings.json
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Medication.exe
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Medication.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\DTO.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Repository.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Services.dll
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+M:\PROJECT\Medication\Medication\bin\Debug\net6.0\Services.pdb
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.dll
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+M:\PROJECT\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.json
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.exe
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Repository.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Services.dll
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+D:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Services.pdb
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.dll
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+D:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.json
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.exe
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\DTO.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Entites.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Repository.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Services.dll
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+F:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Services.pdb
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.dll
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+F:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.json
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.exe
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Repository.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Services.dll
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+E:\אסתרילה לה\final_project\Medication\Medication\bin\Debug\net6.0\Services.pdb
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.dll
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+E:\אסתרילה לה\final_project\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+M:\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.json
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.exe
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+M:\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\DTO.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Entites.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Repository.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Services.dll
+M:\final_project\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+M:\final_project\Medication\Medication\bin\Debug\net6.0\Services.pdb
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+M:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+M:\final_project\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.dll
+M:\final_project\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+M:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+M:\final_project\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.dll
+E:\final_project\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+E:\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+E:\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.json
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.exe
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+E:\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\DTO.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Entites.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Repository.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Services.dll
+E:\final_project\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+E:\final_project\Medication\Medication\bin\Debug\net6.0\Services.pdb
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+E:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+E:\final_project\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+E:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+E:\final_project\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.Development.json
+F:\final_project\Medication\Medication\bin\Debug\net6.0\appsettings.json
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.staticwebassets.runtime.json
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.exe
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.deps.json
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.runtimeconfig.json
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Medication.pdb
+F:\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Humanizer.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\DTO.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Entites.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Repository.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Services.dll
+F:\final_project\Medication\Medication\bin\Debug\net6.0\DTO.pdb
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Entites.pdb
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Repository.pdb
+F:\final_project\Medication\Medication\bin\Debug\net6.0\Services.pdb
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.AssemblyReference.cache
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.GeneratedMSBuildEditorConfig.editorconfig
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfoInputs.cache
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.AssemblyInfo.cs
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CoreCompileInputs.cache
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cs
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.MvcApplicationPartsAssemblyInfo.cache
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.Medication.Microsoft.AspNetCore.StaticWebAssets.props
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.build.Medication.props
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medication.props
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medication.props
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.pack.json
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.build.json
+F:\final_project\Medication\Medication\obj\Debug\net6.0\staticwebassets.development.json
+F:\final_project\Medication\Medication\obj\Debug\net6.0\scopedcss\bundle\Medication.styles.css
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.csproj.CopyComplete
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.dll
+F:\final_project\Medication\Medication\obj\Debug\net6.0\refint\Medication.dll
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.pdb
+F:\final_project\Medication\Medication\obj\Debug\net6.0\Medication.genruntimeconfig.cache
+F:\final_project\Medication\Medication\obj\Debug\net6.0\ref\Medication.dll

@@ -1,0 +1,132 @@
+M:\PROJECT\פרויקט תרופות\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+M:\PROJECT\פרויקט תרופות\Medication\Entites\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\פרויקט תרופות\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.dll
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\bin\Debug\net6.0\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+M:\PROJECT\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+M:\PROJECT\Medication\Entites\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.dll
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+M:\PROJECT\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+D:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+D:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+F:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+F:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.dll
+F:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.dll
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+F:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+E:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+E:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\final_project\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\final_project\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+M:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+M:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.dll
+M:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.dll
+M:\final_project\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+M:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+M:\final_project\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+E:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+E:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.dll
+E:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.dll
+E:\final_project\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+E:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+E:\final_project\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll
+F:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.deps.json
+F:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.dll
+F:\final_project\Medication\Entites\bin\Debug\net6.0\Entites.pdb
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.dll
+F:\final_project\Medication\Entites\obj\Debug\net6.0\refint\Entites.dll
+F:\final_project\Medication\Entites\obj\Debug\net6.0\Entites.pdb
+F:\final_project\Medication\Entites\obj\Debug\net6.0\ref\Entites.dll

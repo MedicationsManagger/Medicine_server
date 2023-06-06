@@ -1,0 +1,165 @@
+M:\PROJECT\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+M:\PROJECT\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\DTO.dll
+M:\PROJECT\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+M:\PROJECT\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.dll
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+M:\PROJECT\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\bin\Debug\net6.0\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\bin\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+M:\PROJECT\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+M:\PROJECT\Medication\DTO\bin\Debug\net6.0\DTO.dll
+M:\PROJECT\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+M:\PROJECT\Medication\DTO\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.dll
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+M:\PROJECT\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+F:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+F:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.dll
+F:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+F:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\Entites.dll
+F:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.dll
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+F:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+E:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\final_project\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\final_project\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+M:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+M:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.dll
+M:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+M:\final_project\Medication\DTO\bin\Debug\net6.0\Entites.dll
+M:\final_project\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.dll
+M:\final_project\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+M:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+M:\final_project\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+E:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.dll
+E:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+E:\final_project\Medication\DTO\bin\Debug\net6.0\Entites.dll
+E:\final_project\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.dll
+E:\final_project\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+E:\final_project\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll
+F:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.deps.json
+F:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.dll
+F:\final_project\Medication\DTO\bin\Debug\net6.0\DTO.pdb
+F:\final_project\Medication\DTO\bin\Debug\net6.0\Entites.dll
+F:\final_project\Medication\DTO\bin\Debug\net6.0\Entites.pdb
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.dll
+F:\final_project\Medication\DTO\obj\Debug\net6.0\refint\DTO.dll
+F:\final_project\Medication\DTO\obj\Debug\net6.0\DTO.pdb
+F:\final_project\Medication\DTO\obj\Debug\net6.0\ref\DTO.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "DApk/nFrjbhEVmWrMf11o8/HMqlBMEzDgqpKlGTld2A=",
+  "Source": "Medication",
+  "BasePath": "_content/Medication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medication\\wwwroot",
+      "Source": "Medication",
+      "ContentRoot": "F:\\final_project\\Medication\\Medication\\wwwroot\\",
+      "BasePath": "_content/Medication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,209 @@
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.dll
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.dll
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+M:\PROJECT\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\DTO.dll
+M:\PROJECT\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\אסתרילה לה\פרויקט תרופות\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\DTO.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\Entites.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\משתמש זה\Documents\לימודים שנה ב\PROJECT\תרופות\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\אסתרילה לה\פרויקט תרופות\תרופות\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\Repository.dll
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\DTO.dll
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\Entites.dll
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+M:\PROJECT\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.dll
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+M:\PROJECT\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.dll
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\DTO.dll
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Entites.dll
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+D:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.dll
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.dll
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\DTO.dll
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Entites.dll
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+F:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.dll
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.dll
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\DTO.dll
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Entites.dll
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+E:\אסתרילה לה\final_project\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.dll
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\אסתרילה לה\final_project\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+M:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+M:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+M:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.dll
+M:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+M:\final_project\Medication\Repository\bin\Debug\net6.0\DTO.dll
+M:\final_project\Medication\Repository\bin\Debug\net6.0\Entites.dll
+M:\final_project\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+M:\final_project\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.dll
+M:\final_project\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+M:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+M:\final_project\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.dll
+E:\final_project\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+E:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.dll
+E:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+E:\final_project\Medication\Repository\bin\Debug\net6.0\DTO.dll
+E:\final_project\Medication\Repository\bin\Debug\net6.0\Entites.dll
+E:\final_project\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+E:\final_project\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\final_project\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.dll
+F:\final_project\Medication\Repository\bin\Debug\net6.0\Repository.pdb
+F:\final_project\Medication\Repository\bin\Debug\net6.0\DTO.dll
+F:\final_project\Medication\Repository\bin\Debug\net6.0\Entites.dll
+F:\final_project\Medication\Repository\bin\Debug\net6.0\DTO.pdb
+F:\final_project\Medication\Repository\bin\Debug\net6.0\Entites.pdb
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.dll
+F:\final_project\Medication\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.pdb
+F:\final_project\Medication\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\final_project\Medication\Repository\obj\Debug\net6.0\ref\Repository.dll
